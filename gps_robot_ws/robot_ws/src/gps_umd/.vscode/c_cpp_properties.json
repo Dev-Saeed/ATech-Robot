@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/m17dt/sensortest_ws/install/gps_tools/include/**",
+        "/home/m17dt/sensortest_ws/install/gps_msgs/include/**",
+        "/home/m17dt/robot_ws/install/diffdrive_arduino/include/**",
+        "/opt/ros/iron/include/**",
+        "/home/m17dt/sensortest_ws/src/gps_umd/gps_tools/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
